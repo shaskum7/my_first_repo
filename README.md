@@ -1,8 +1,6 @@
-# my_first_repo
-Title :- Guessing Game
+# Title :- Guessing Game
 
-This is about guessing number of files present in current directory
-if user is guessing correct number of files then he will be congratulated
+Created on 9th Nov 2020 at 09:10 PM IST
 
-No of lines in code: 
+No of lines in code: 31
 
